@@ -1,6 +1,7 @@
 ### Hey there 👋 I am [Kiruthik](https://github.com/Kiruthik-coder) 
 <hr>
 <h3>About me </h3> 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
   <li>👋 Pursuing M.Tech in Software Engineering @VIT, India </li>
   <li>🐍 Python Enthusiast | AI, ML, DL | Socket Programming</li>
@@ -13,7 +14,7 @@
 
 <h4>Programming Languages:</h4>
 <div align ="left">
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' style = "padding-left: 50px;">
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' >
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
