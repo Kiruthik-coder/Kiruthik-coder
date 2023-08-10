@@ -1,5 +1,4 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-, there</h1>
+<h1>Hey, there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2> About me </h2>
 <ul>
   <li> Interset/Focus: DeepLearning, AI, Machine Learning, UX/UI</li>
