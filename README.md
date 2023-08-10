@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">![image](https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/d307c3d9-af0b-4e7f-8583-54c502e27a53)
+<h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 , there</h1>
 <h2> About me </h2>
 <ul>
