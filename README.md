@@ -28,7 +28,8 @@
 
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=tokyonight" alt="mystreak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiruthik-coder&show_icons=true&hide_border=true&theme=transparent&&count_private=true&include_all_commits=true" />
+
 
 
 <img src="https://komarev.com/ghpvc/?username=Kiruthik-coder&color=brightgreen" alt="watching_count" />
