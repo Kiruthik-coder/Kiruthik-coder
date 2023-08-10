@@ -11,12 +11,13 @@
 
 <h3>Tech Stack👨🏻‍💻 </h3>
 
-<h4>Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h4>
-
+<h4>Programming Languages:</h4>
+<div align ="left">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=tokyonight" alt="mystreak"/>
 
