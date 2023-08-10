@@ -12,3 +12,6 @@
 <h3>Tech Stack👨🏻‍💻 </h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=tokyonight" alt="mystreak"/>
+
+
+<img src="https://komarev.com/ghpvc/?username="Kiruthik-coder" alt="watching_count" />
