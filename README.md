@@ -14,4 +14,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=tokyonight" alt="mystreak"/>
 
 
-<img src="https://komarev.com/ghpvc/?username="Kiruthik-coder" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Kiruthik-coder&color=brightgreen" alt="watching_count" />
