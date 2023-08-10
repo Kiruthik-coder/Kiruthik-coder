@@ -1,7 +1,7 @@
 ### Hey there 👋 I am [Kiruthik](https://github.com/Kiruthik-coder) 
 <hr>
 <h3>About me </h3> 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/Kiruthik-coder/Kiruthik-coder/blob/main/about_memo.png" />
 <ul>
   <li>👋 Pursuing M.Tech in Software Engineering @VIT, India </li>
   <li>🐍 Python Enthusiast | AI, ML, DL | Socket Programming</li>
