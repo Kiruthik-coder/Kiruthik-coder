@@ -1,5 +1,5 @@
 ### Hey there 👋 I am [Kiruthik](https://github.com/Kiruthik-coder) 
-<hr
+<hr>
 <h3>About me </h3> 
 <img width="13%" height = "13%" align="left" alt="Github" src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/f9a7f50a-c4e6-4c6b-a939-429a7e2c378d"/>
 <ul>
