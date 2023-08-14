@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)&nbsp;
 
-</div>
+</div
 
 <h3>Git Stats: </h3>
 
