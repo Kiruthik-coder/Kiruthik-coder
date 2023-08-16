@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)&nbsp;
 ![GitHub](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=MySQL)&nbsp;
+![GitHub](https://img.shields.io/badge/-Tensorflow-FFFFFF?style=flat&logo=Tensorflow)&nbsp;
 </div>
 
 <h3>Git Stats: </h3>
