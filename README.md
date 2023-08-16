@@ -25,7 +25,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)&nbsp;
-
+![GitHub](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=github)&nbsp;
 </div>
 
 <h3>Git Stats: </h3>
