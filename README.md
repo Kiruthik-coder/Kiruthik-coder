@@ -1,5 +1,5 @@
 ### Hey there 👋 I am [Kiruthik](https://github.com/Kiruthik-coder) 
-<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/a13b1e4a-c649-44d8-b185-b1b272ed8822" />
+
 <hr>
 <h3>About me </h3> 
 <img width="13%" height = "13%" align="left" alt="Github" src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/f9a7f50a-c4e6-4c6b-a939-429a7e2c378d"/>
@@ -33,7 +33,7 @@
 <h3>Git Stats: </h3>
 
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=transparent&&count_private=true"/>
-
+<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/a13b1e4a-c649-44d8-b185-b1b272ed8822" />
 <img src="https://komarev.com/ghpvc/?username=Kiruthik-coder&color=brightgreen" alt="watching_count" />
 
 
