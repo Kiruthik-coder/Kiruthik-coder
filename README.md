@@ -1,4 +1,4 @@
-<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/blob/main/about_memo.png"/>
+<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/a13b1e4a-c649-44d8-b185-b1b272ed8822" />
 ### Hey there 👋 I am [Kiruthik](https://github.com/Kiruthik-coder) 
 <hr>
 <h3>About me </h3> 
