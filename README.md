@@ -32,7 +32,7 @@
 
 <h3>Git Stats: </h3>
 <div>
-  <img align = 'left' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=transparent&&count_private=true"/>
+  <img align = 'left' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruthik-coder&theme=transparent&&count_private=true&hide_border=true"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruthik-coder&hide_border=true&layout=compact"/>
 </div>
 <br><br>
