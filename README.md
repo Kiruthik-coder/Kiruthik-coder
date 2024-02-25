@@ -36,7 +36,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruthik-coder&hide_border=true&layout=compact"/>
 </div>
 <br><br>
-<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/a13b1e4a-c649-44d8-b185-b1b272ed8822" />
+<!--<img src="https://github.com/Kiruthik-coder/Kiruthik-coder/assets/76081690/a13b1e4a-c649-44d8-b185-b1b272ed8822" />-->
 <img src="https://komarev.com/ghpvc/?username=Kiruthik-coder&color=brightgreen" alt="watching_count" />
 
 
